@@ -1,0 +1,4 @@
+bash
+Copy code
+git checkout master
+git pull origin master
